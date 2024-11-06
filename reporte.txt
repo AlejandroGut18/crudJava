@@ -1,0 +1,2 @@
+Saiyajin,Goku,10000,200195,SSJBlue
+Saiyajin,Vegeta,2750,199951,SSJ2
